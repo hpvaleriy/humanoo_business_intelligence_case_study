@@ -2,7 +2,7 @@
 This repository is the base for case Study at Humanoo, for BI Analyst position.
 The purpose of it is to test the knowledge of: SQL, visualization skills.
 
-Image a situation that a stakeholder comes to you with a few requests. Your job is to help the stakeholder.
+Imagine a situation that a stakeholder comes to you with a few requests. Your job is to help the stakeholder.
 
 ### Data
 Use files inside "source_files" directory as foundation or source for your work, with this data model
